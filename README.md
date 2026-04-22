@@ -39,7 +39,7 @@ He has also led chatbot development at a large corporation and is one of the Mac
 This course runs on Coursera’s hands-on platform, where you complete projects directly in your browser.
 You get instant access to pre-configured virtual workspaces with all required software and data so you can focus on learning.
 
-For this project, that includes a workspace with **Python, Jupyter, and PyTorch pre-installed**.
+For this project, that includes a workspace with **Python, Jupyter, and TensorFlow pre-installed**.
 
 ## Earn a Certificate
 
